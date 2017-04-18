@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hlwd"
+  id="myeclipse.1492482644472"
+  context-root="/hlwd"
+  j2ee-spec="5.0"
+  archive="hlwd.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
